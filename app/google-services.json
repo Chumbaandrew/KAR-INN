@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "596530102598",
+    "project_id": "kar-inn",
+    "storage_bucket": "kar-inn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596530102598:android:d6594b02cac106912d2547",
+        "android_client_info": {
+          "package_name": "com.example.kar_inn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6aBXhG2Od2iqbFNGDKm_15vT_GDlIvCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
